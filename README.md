@@ -54,3 +54,7 @@ EMF 스풀링된 파일에서 EMF 파일로 추출하는 프로그램
 ### 프로그램 한 줄 설명
 
 EMF 데이터의 크기에 대한 정보를 가진 4byte 이후로 EMF 데이터 크기 만큼 byte array로 가져와 EMF 파일로 만든 후 저장함
+
+### EMF
+
+[레퍼런스](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-emfspool/0af7426e-2767-4456-a4e2-6a57c8c640bd)
